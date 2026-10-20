@@ -1,6 +1,8 @@
 # CommercePulse — E-Commerce Revenue & Customer Experience Intelligence
 
-> **Status:** starter project. No results, conclusions, or business impact have been claimed yet.
+> **Status:** Completed portfolio case study.
+> SQL analysis, statistical testing,
+> interactive dashboard, and executive report.
 
 ## Business questions
 
