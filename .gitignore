@@ -1,0 +1,14 @@
+# Download source from Kaggle; don't redistribute via this portfolio.
+data/raw/*
+!data/raw/.gitkeep
+# Generated databases and exports
+data/processed/*
+!data/processed/.gitkeep
+*.sqlite
+*.sqlite3
+__pycache__/
+.venv/
+.env
+.ipynb_checkpoints/
+*.pyc
+.DS_Store
